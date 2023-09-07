@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.414" height="14.828" viewBox="0 0 17.414 14.828">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="17.414" height="14.828" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Inspiring_Lighting_Section_RHS_Arrow" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Group_20" data-name="Group 20" transform="translate(-861.086 -2339.586)">
+      <g id="Group_18" data-name="Group 18" transform="translate(947 1546.5) rotate(90)">
+        <line id="Line_2" data-name="Line 2" x2="6" y2="6" transform="translate(794.5 78.5)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_3" data-name="Line 3" x1="6" y2="6" transform="translate(800.5 78.5)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-width="2"/>
+      </g>
+      <line id="Line_4" data-name="Line 4" x2="14" transform="translate(863.5 2347)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
